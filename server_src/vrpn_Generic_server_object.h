@@ -5,6 +5,7 @@
 
 #include "vrpn_Configure.h"             // for VRPN_USE_DEV_INPUT, etc
 #include "vrpn_Types.h"                 // for vrpn_float64
+#include "vrpn_Connection.h"
 
 class vrpn_MainloopContainer;
 
