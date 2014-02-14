@@ -41,3 +41,9 @@ pc_cygwin
 .depend
 /gpsnmealib/Release
 /quat/pc_win32
+/gpsnmealib/Debug/*.pdb
+/gpsnmealib/Debug/*.idb
+/gpsnmealib/Debug/*.obj
+/gpsnmealib/Debug/gpsnmealib.tlog/*.tlog
+/gpsnmealib/Debug/gpsnmealib.tlog/*.lastbuildstate
+/gpsnmealib/Debug/*.log
